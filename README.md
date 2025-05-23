@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Fahad
 
 ![Full Stack Developer](https://img.shields.io/badge/Full--Stack-Web%20Developer-blueviolet?style=for-the-badge)  
-Crafting scalable, modern web applications with passion and precision.
+Developing scalable, high-quality web applications with a focus on performance and user experience.
 
 ---
 
